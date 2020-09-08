@@ -1,0 +1,5 @@
+spring:
+  freemarker:
+    suffix: .ftl
+  mvc:
+    static-path-pattern: /static/**
