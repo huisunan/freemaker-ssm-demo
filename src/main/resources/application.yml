@@ -3,3 +3,5 @@ spring:
     suffix: .ftl
   mvc:
     static-path-pattern: /static/**
+server:
+  port: 9000
